@@ -1,7 +1,7 @@
 # Timeseries_forecast_GBDT
 
-##Installation
+## Installation
 
-##How to use it
+## How to use it
 
-##Configuration
+## Configuration
